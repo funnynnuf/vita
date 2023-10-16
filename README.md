@@ -1,7 +1,7 @@
-# vita.hacks.guide
+# https://mirrormirrorontheweb.github.io/vita/
 The complete guide to modding your PlayStation Vita. 
 
-https://vita.hacks.guide
+https://mirrormirrorontheweb.github.io/vita/
 
 ## Running the site locally
 
